@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Personal projects worth mentioning :
 - My [SAT Solver](https://github.com/MatheoDumont/sudoku-with-sat-solver/) to solve sudokus
-- [Music Clustering](https://github.com/MatheoDumont/music_clustering) Clustering songs to find similarities that could be used to build  playlists based on genre
+- In [Music Clustering](https://github.com/MatheoDumont/music_clustering) i tried to make Clusters of songs to find similarities that could be used to build  playlists based on genre
 - Basic display of the [Mandelbrot Set](https://github.com/MatheoDumont/mandelbrot_set) using the SDL library
 - My try on the Rust language with the implementation of an [AVL Tree](https://github.com/MatheoDumont/rust-avl-tree)
 
