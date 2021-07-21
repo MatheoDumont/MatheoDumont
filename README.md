@@ -1,8 +1,8 @@
 ### Hello there 👋
-I am Matheo Dumont, i am currently a student in Compute Science, and more precisely in 3D technologies at the University Claude Bernard in Lyon, ID3D curriculum.
+I am Matheo Dumont, i study Compute Science, and more precisely in 3D technologies at the University Claude Bernard in Lyon, ID3D curriculum, last year.
 
-At the moment, im doing my internship in Montpellier at the LIRMM(laboratory of computer science, mecanic and micro-electronic of Montpellier), in the ICAR team with Noura Faraj as supervisor. 
-My subject is about 'Simulating submarine environnments for underwater vehicle'.
+Im currently doing my internship in Montpellier at the LIRMM(laboratory of computer science, mecanic and micro-electronic of Montpellier), in the ICAR team with Noura Faraj as supervisor. 
+My subject is about 'Simulating submarine environments for underwater vehicle'.
 
 <!--
 **MatheoDumont/MatheoDumont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
