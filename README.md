@@ -1,8 +1,8 @@
 ### Hello there 👋
-I am Matheo Dumont, i study Compute Science and more precisely 3D technologies at the University Claude Bernard in Lyon, ID3D curriculum, last year.
+I am Matheo Dumont, i studied Computer Science and more precisely 3D technologies at the University Claude Bernard in Lyon, ID3D curriculum.
 
-Im currently doing my internship in Montpellier at the LIRMM(laboratory of computer science, mecanic and micro-electronic of Montpellier), in the ICAR team with Noura Faraj as supervisor. 
-My subject is about 'Simulating submarine environments for underwater vehicle'.
+I've done my internship at the LIRMM(the laboratory of computer science, mecanic and micro-electronic of Montpellier), in the ICAR team with Noura Faraj as supervisor. 
+My subject was about 'Simulating submarine environments for underwater vehicle'.
 
 <!--
 **MatheoDumont/MatheoDumont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Personal projects worth mentioning :
-- My [SAT Solver](https://github.com/MatheoDumont/sudoku-with-sat-solver/) to solve sudokus
+My Personal projects worth mentioning are :
+- a [SAT Solver](https://github.com/MatheoDumont/sudoku-with-sat-solver/) to solve sudokus
 - In [Music Clustering](https://github.com/MatheoDumont/music_clustering) i tried to make clusters of songs to find similarities that could be used to build  playlists based on genre
 - Basic display of the [Mandelbrot Set](https://github.com/MatheoDumont/mandelbrot_set) using the SDL library
 - My try on the Rust language with the implementation of an [AVL Tree](https://github.com/MatheoDumont/rust-avl-tree)
+- A [physic engine wrote in Rust (WIP)](https://github.com/MatheoDumont/engine/)
 
 Courses's Projects for my Master in Computer Science, centered on 3D tech and related (a lot in french):
 - [Modeling of Virtual World](https://github.com/MatheoDumont/MMV_tps)
