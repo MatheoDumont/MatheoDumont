@@ -32,4 +32,4 @@ Courses's Projects for my Master in Computer Science, centered on 3D tech and re
 - [Statistics Methods for Image processing](https://github.com/MatheoDumont/ImStat)
 - [Algorithmic Geometry and Meshs](https://github.com/MatheoDumont/GAM)
 - [Analysing and Treatement of images, 3D Vision](https://github.com/MatheoDumont/ATIV_tps)
-- I also had some projects in Rendering, Ray Tracing, Signals Processing and Data Compression related to images
+- I also had some projects in Rendering, Ray Tracing, Signals Processing and Data Compression related to data visualization 
