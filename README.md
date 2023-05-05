@@ -34,6 +34,6 @@ Courses's Projects for my Master in Computer Science, centered on 3D tech and re
 - [Analysing and Treatement of images, 3D Vision](https://github.com/MatheoDumont/ATIV_tps)
 - I also had some projects in Rendering, Ray Tracing, Signals Processing and Data Compression related to data visualization 
 
-# Ressources 
+### Ressources 
 
 [Papers we love: currated list of papers from all horizons of computer science](https://github.com/papers-we-love/papers-we-love)
