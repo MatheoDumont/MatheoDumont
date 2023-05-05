@@ -1,7 +1,7 @@
 ### Hello there 👋
 I am Matheo Dumont, i studied Computer Science and more precisely 3D technologies at the University Claude Bernard in Lyon, ID3D curriculum.
 
-I've done my internship at the LIRMM(the laboratory of computer science, mecanic and micro-electronic of Montpellier), in the ICAR team with Noura Faraj as supervisor. 
+I have done my internship at the LIRMM(the laboratory of computer science, mecanic and micro-electronic of Montpellier), in the ICAR team with Noura Faraj as supervisor. 
 My subject was about 'Simulating submarine environments for underwater vehicle'.
 
 <!--
@@ -33,3 +33,7 @@ Courses's Projects for my Master in Computer Science, centered on 3D tech and re
 - [Algorithmic Geometry and Meshs](https://github.com/MatheoDumont/GAM)
 - [Analysing and Treatement of images, 3D Vision](https://github.com/MatheoDumont/ATIV_tps)
 - I also had some projects in Rendering, Ray Tracing, Signals Processing and Data Compression related to data visualization 
+
+# Ressources 
+
+[Papers we love: currated list of papers from all horizons of computer science](https://github.com/papers-we-love/papers-we-love)
