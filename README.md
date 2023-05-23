@@ -36,4 +36,5 @@ Courses's Projects for my Master in Computer Science, centered on 3D tech and re
 
 ### Ressources 
 
-[Papers we love: currated list of papers from all horizons of computer science](https://github.com/papers-we-love/papers-we-love)
+[Papers we love: currated list of papers from all horizons of computer science](https://github.com/papers-we-love/papers-we-love)  
+[Computer system course on simplified OS](http://www.scs.stanford.edu/10wi-cs140/pintos/pintos.html)
